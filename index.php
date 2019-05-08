@@ -5,8 +5,8 @@
 		<script type="text/javascript" src="script.js"></script>
 	</head>
 	<body>
-		<header>
-			<h1>Olá este é um texto</h1>
-		</header>
+		<div id="area">Alguma coisa...</div>
+		<br/><br/>
+		<button onclick="FazerAcao('Leon')">Fazer a ação</button>
 	</body>
 </html>
